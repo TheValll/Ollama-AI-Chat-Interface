@@ -31,9 +31,10 @@ Follow these steps to install and launch the interface:
 
 3. **Run the Streamlit interface:**
 `ollama run [your_model]`
+
    Note: You need to run your ollama before the streamlit interface
 
-4. **Run the Streamlit interface:**
+5. **Run the Streamlit interface:**
 `streamlit run./ui.py --theme.base="light" --server.port=11434 --server.address=0.0.0.0 --server.headless=true`
 
    Note: If the Ollama server URL is changed in the `config.json` file, the Streamlit port must match.
