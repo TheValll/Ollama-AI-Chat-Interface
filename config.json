@@ -1,0 +1,7 @@
+{
+  "user_name": "user",
+  "assistant_name": "Llama",
+  "language": "en",
+  "url": "http://localhost:11434/api/chat",
+  "model": "llama3:8b"
+}

@@ -1,0 +1,42 @@
+{
+    "fr": {
+        "selected_categories": "S&eacute;lectionner une cat&eacute;gorie",
+        "delete_category_button": "Supprimer la conversation",
+        "clear_category_button": "Nettoyer la conversation",
+        "add_category_input": "Ajouter une cat&eacute;gorie",
+        "add_prompt_input": "Entrez un prompt",
+        "add_category_button": "Ajouter",
+        "user_input": "Dis quelque chose",
+        "add_category_error_1": "Veuillez remplir quelque chose sur les 2 inputs, vous pouvez trouver des templates ici : https://ignacio-velasquez.notion.site/5daec237070147e08cc3d327ba20bfde?v=97fc38c53b0045e0aa1ed6b804e6c7aa&p=72b057de86934963b4c7e126dee14220&pm=s",
+        "add_category_success": "La cat&eacute;gorie a &eacute;t&eacute; ajout&eacute;e avec succ&egrave;s",
+        "add_category_error_2": "La cat&eacute;gorie existe d&eacute;j&agrave;",
+        "delete_category_error_1": "Veuillez s&eacute;lectionner une cat&eacute;gorie &agrave; supprimer",
+        "delete_category_error_2": "Vous ne pouvez pas supprimer le chat par d&eacute;faut",
+        "delete_category_error_3": "La cat&eacute;gorie n'existe pas",
+        "delete_category_success": "La cat&eacute;gorie a &eacute;t&eacute; supprim&eacute;e avec succ&egrave;s",
+        "clear_category_error_1": "Veuillez s&eacute;lectionner une cat&eacute;gorie &agrave; nettoyer",
+        "clear_category_error_2": "La cat&eacute;gorie n'existe pas",
+        "clear_category_success": "La cat&eacute;gorie a &eacute;t&eacute; nettoy&eacute;e avec succ&egrave;s",
+        "askingIA_success": "Message envoy&eacute; avec succ&egrave;s, veuillez patienter"
+    },
+    "en": {
+        "selected_categories": "Select a category",
+        "delete_category_button": "Delete the chat",
+        "clear_category_button": "Clean the chat",
+        "add_category_input": "Clean up the chat",
+        "add_prompt_input": "Enter a prompt",
+        "add_category_button": "Add",
+        "user_input":"Say something",
+        "add_category_error_1": "Please fill in something about the 2 inputs, you can find templates here : https://ignacio-velasquez.notion.site/5daec237070147e08cc3d327ba20bfde?v=97fc38c53b0045e0aa1ed6b804e6c7aa&p=72b057de86934963b4c7e126dee14220&pm=s",
+        "add_category_success": "The category has been successfully added",
+        "add_category_error_2": "The category already exists",
+        "delete_category_error_1": "Please select a category to delete",
+        "delete_category_error_2": "You cannot delete the default chat",
+        "delete_category_error_3": "The category does not exist",
+        "delete_category_success": "The category has been deleted successfully",
+        "clear_category_error_1": "Please select a category to clean",
+        "clear_category_error_2": "The category does not exist",
+        "clear_category_success": "The category has been successfully cleaned",
+        "askingIA_success": "Message sent successfully, please wait"
+    }
+}
