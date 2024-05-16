@@ -46,7 +46,7 @@ json { "user_name": "user", "assistant_name": "Llama", "language": "en", "url": 
 
 ## 🚀 Using the Interface
 The interface will be accessible via the IPv4 of the host computer + the default port 11434, from any device connected to the same network.
-Exemple : `192.168.1.2:11434`
+Example : `192.168.1.2:11434`
 
 ## 📂 Managing Categories
 The user can manage multiple conversations called categories:
