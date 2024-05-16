@@ -35,7 +35,7 @@ Follow these steps to install and launch the interface:
    Note: If the Ollama server URL is changed in the `config.json` file, the Streamlit port must match.
 
 ## ⚙️ Configuration
-user can change the `config.json` file
+You can change the `config.json` file :
 json { "user_name": "user", "assistant_name": "Llama", "language": "en", "url": "http://localhost:11434/api/chat", "model": "llama3:8b" }
 
 - `user_name`: User's name.
