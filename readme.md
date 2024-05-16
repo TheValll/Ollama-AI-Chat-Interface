@@ -24,17 +24,18 @@ This project is a web interface for chat between a user and an AI, utilizing var
 Follow these steps to install and launch the interface:
 
 1. **Clone the project:**
-bash git clone https://github.com/TheValll/Ollama-AI-Chat-Interface
+bash `git clone https://github.com/TheValll/Ollama-AI-Chat-Interface`
 
 2. **Install dependencies:**
-bash pip install -r requirements.txt
+bash `pip install -r requirements.txt`
 
 3. **Run the Streamlit interface:**
-bash streamlit run./ui.py --theme.base="light" --server.port=11434 --server.address=0.0.0.0 --server.headless=true
+bash `streamlit run./ui.py --theme.base="light" --server.port=11434 --server.address=0.0.0.0 --server.headless=true`
 
    Note: If the Ollama server URL is changed in the `config.json` file, the Streamlit port must match.
 
 ## ⚙️ Configuration
+user can change the config.json file
 json { "user_name": "user", "assistant_name": "Llama", "language": "en", "url": "http://localhost:11434/api/chat", "model": "llama3:8b" }
 
 - `user_name`: User's name.
