@@ -51,7 +51,7 @@ Example : `192.168.1.2:11434`
 ## 📂 Managing Categories
 The user can manage multiple conversations called categories:
 
-- Default Category: A default category is provided and cannot be deleted.
+- Default Category: A default category is provided with a Full-Stack Software Developer prompt and cannot be deleted.
 - Add a Category: Add a new category with a required name and prompt.
 - Clear a Category: Clear the chat history of a category without deleting the initial prompt.
 - Delete a Category: Delete a user-created category.
