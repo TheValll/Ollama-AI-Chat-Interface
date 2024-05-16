@@ -24,7 +24,7 @@ This project is a web interface for chat between a user and an AI, utilizing var
 Follow these steps to install and launch the interface:
 
 1. **Clone the project:**
-bash git clone <project_url>
+bash git clone https://github.com/TheValll/Ollama-AI-Chat-Interface
 
 2. **Install dependencies:**
 bash pip install -r requirements.txt
