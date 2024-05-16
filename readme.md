@@ -40,7 +40,7 @@ json { "user_name": "user", "assistant_name": "Llama", "language": "en", "url": 
 
 - `user_name`: User's name.
 - `assistant_name`: Assistant's name.
-- `language`: Interface language (default is "en").
+- `language`: Interface language (default is "en", fr and en is available).
 - `url`: URL of the Ollama server (default is `http://localhost:11434/api/chat`).
 - `model`: Model used on Ollama (default is `llama3:8b`).
 
