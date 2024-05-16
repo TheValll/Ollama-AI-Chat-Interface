@@ -68,14 +68,14 @@ To access the interface from other devices on the same network, you will need to
 ### On Windows:
 Open Command Prompt (`cmd`).
 Type the following command:
-bash ipconfig
+`ipconfig`
 
 Look for the IPv4 address in the results under the network adapter in use (usually something like `192.168.x.x`).
 
 ### On macOS/Linux:
 Open a terminal.
 Type the following command:
-bash ifconfig
+`ifconfig`
 
 Look for the IPv4 address in the results under the network interface in use (usually something like `192.168.x.x`).
 
